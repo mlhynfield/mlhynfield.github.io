@@ -1,17 +1,11 @@
 body { 
-   color: darkcyan; 
+   color: black; 
    background: ivory; 
    }
 em { 
-   /* font-style: normal; */ 
-   color: red; 
+   font-style: normal; 
+   font-weight: bold; 
    }
 ol { 
-   list-style-type: upper-roman; 
-   }
-ol ol { 
-   list-style-type: upper-alpha; 
-   }
-ol ol ol { 
-   list-style-type: decimal; 
+   list-style-type: disc; 
    }
