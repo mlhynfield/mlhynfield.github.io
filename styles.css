@@ -1,23 +1,28 @@
 body {
   background: #E6E8E6;
   color: #343434;
-  font: Times New Roman;
-  width: 400px;
+  font-family: "Times New Roman", serif;
+  font-size: 0.8333rem;
+  margin: 6rem 6rem;
+  padding: auto 0;
    }
 h1 {
-align-content: center;
-  /* border-color: red;
-  border-style: solid;
-  border-width: medium; */
-  font-size: 22;
+  font-size: 1.8333rem;
   font-style: italic;
-  /* margin: 30px; */
-  /* padding: 30px; */
+  font-variant: small-caps;
+  text-align: center;
 }
 h2 {
-  font-size: 10;
+  align-items: center;
+  font-size: 0.8333rem;
+  text-align: center;
+}
+h3 {
+  font-size: 1rem;
+  text-decoration: underline;
 }
 h4 {
+  font-size: 0.8333rem;
   margin-bottom: 0;
 }
 p {
