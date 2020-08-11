@@ -1,9 +1,8 @@
 body {
   background: #E6E8E6;
   color: #343434;
-  font-family: "Times New Roman", serif;
-  font-size: 0.8333rem;
-  margin: 6rem 6rem;
+  font: 0.8333rem "Times New Roman", serif;
+  margin: 4rem 6rem;
   padding: auto 0;
    }
 h1 {
