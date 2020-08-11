@@ -6,9 +6,7 @@ body {
   padding: auto 0;
    }
 h1 {
-  font-size: 1.8333rem;
-  font-style: italic;
-  font-variant: small-caps;
+  font: italic small-caps bold 1.8333rem/1.0 "Times New Roman", serif;
   text-align: center;
 }
 h2 {
