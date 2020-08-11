@@ -1,2 +1,2 @@
 # mlhynfield.github.io
-This is my code. I have been informed that it is not real code.
+This is my resume, which doubles as my first attempt at creating a website using HTML5 and CSS.
