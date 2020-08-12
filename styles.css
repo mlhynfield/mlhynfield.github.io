@@ -26,7 +26,9 @@ span {
   float: right;
 }
 p {
+  font-style: italic;
   margin: 0 auto;
+  padding: 0 auto;
 }
 a:link {
   color: #5995ED
@@ -37,5 +39,9 @@ a:visited {
 ul {
   color: #3E4044
   list-style-type: disc;
-  align-content: left;
+  padding-left: 2%;
+  margin: 0 auto;
    }
+li {
+  width: 75%
+}
