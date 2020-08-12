@@ -6,12 +6,16 @@ body {
   padding: auto 0;
    }
 h1 {
+  border-bottom: 3px solid black;
   font: italic small-caps bold 1.8333rem/1.0 "Times New Roman", serif;
+  margin-bottom: 0;
+  padding-bottom: 2px;
   text-align: center;
 }
 h2 {
   align-items: center;
   font-size: 0.8333rem;
+  margin-top: 3px;
   text-align: center;
 }
 h3 {
@@ -28,7 +32,6 @@ span {
 p {
   font-style: italic;
   margin: 0 auto;
-  padding: 0 auto;
 }
 a:link {
   color: #5995ED
