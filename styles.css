@@ -2,7 +2,7 @@ body {
   background: #E6E8E6;
   color: #343434;
   font: 0.8333rem "Times New Roman", serif;
-  margin: 4rem 6rem;
+  margin: 10%;
   padding: auto 0;
    }
 h1 {
@@ -22,8 +22,11 @@ h4 {
   font-size: 0.8333rem;
   margin-bottom: 0;
 }
+span {
+  float: right;
+}
 p {
-  margin-top: 0;
+  margin: 0 auto;
 }
 a:link {
   color: #5995ED
@@ -34,4 +37,5 @@ a:visited {
 ul {
   color: #3E4044
   list-style-type: disc;
+  align-content: left;
    }
