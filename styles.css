@@ -1,34 +1,34 @@
 body {
   background: #E6E8E6;
   color: #343434;
-  font: 0.8333rem "Times New Roman", serif;
+  font: 13.333px "Times New Roman", serif;
   margin: 10%;
   padding: auto 0;
    }
 h1 {
   border-bottom: 3px solid black;
-  font: italic small-caps bold 1.8333rem/1.0 "Times New Roman", serif;
+  font: italic small-caps bold 29.333px/1.0 "Times New Roman", serif;
   margin-bottom: 0;
   padding-bottom: 2px;
   text-align: center;
 }
 h2 {
   align-items: center;
-  font-size: 0.8333rem;
+  font-size: 13.333px;
   margin-top: 3px;
   text-align: center;
 }
 h3 {
-  font-size: 1rem;
+  font-size: 16px;
   text-decoration: underline;
 }
 h4 {
-  font-size: 0.8333rem;
+  font-size: 13.333px;
   margin-bottom: 0;
 }
 span {
   float: right;
-  font-size: 0.8333rem;
+  font-size: 13.333px;
 }
 p {
   font-style: italic;
