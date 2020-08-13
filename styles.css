@@ -29,7 +29,7 @@ h4 {
 span {
   float: right;
   font-size: 13.333px;
-  min-width: 13.333px;
+  -webkit-text-size-adjust: none;
 }
 p {
   font-style: italic;
