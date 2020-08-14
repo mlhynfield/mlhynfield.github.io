@@ -49,7 +49,7 @@ ul {
 li {
   width: 75%
 }
-@media only screen and (max-device-width: 1500px) {
+@media only screen and (max-device-width: 1300px) {
   html {
     font-size: 200%
   }
