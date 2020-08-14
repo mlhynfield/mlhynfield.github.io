@@ -1,7 +1,7 @@
 body {
   background: #E6E8E6;
   color: #343434;
-  font: 13.333px "Times New Roman", serif;
+  font: 0.8333rem "Times New Roman", serif;
   margin: 10%;
   padding: auto 0;
    }
@@ -14,22 +14,21 @@ h1 {
 }
 h2 {
   align-items: center;
-  font-size: 13.333px;
+  font-size: 0.8333rem;
   margin-top: 3px;
   text-align: center;
 }
 h3 {
-  font-size: 16px;
+  font-size: 1rem;
   text-decoration: underline;
 }
 h4 {
-  font-size: 13.333px;
+  font-size: 0.8333rem;
   margin-bottom: 0;
 }
 span {
   float: right;
-  font-size: 13.333px;
-  -webkit-text-size-adjust: none;
+  font-size: 0.8333rem;
 }
 p {
   font-style: italic;
