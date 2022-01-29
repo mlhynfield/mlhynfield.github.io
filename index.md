@@ -4,15 +4,37 @@ layout: default
 
 # Cloud DevOps Engineer
 
+| [Work Experience](#work-experience) | [Education](#education) |
+
 ## Work Experience
 
 ### DevOps Engineer
 
+*Remote*: July 2021 - Present
+
+- Design and troubleshoot Kubernetes deployments for IP applications (EKS & AKS)
+- Automate processes for Managed Services using Python
+- Mentor System Admins in automation and best practices
+- Provide creative innovation and insight in internal DevOps meetings
+- Assist in outlining company best practices for various technologies and tools
+- Create and update thorough documentation for deployments and automations
+- Design high-level architectural diagrams for all projects
+- Moderate DevOps and Agile/Scrum Slack channels
+
 ### DevOps Intern
+
+*Remote*: May 2021 - July 2021
+
+- Design and implement an IVR solution for VSO using Amazon Connect
+- Automate build process for Connect instances using AWS Python SDK
+- Implement Voicemail solution for Connect using other AWS services (e.g. Lambda)
+- Design a chatbot for Connect instance using Amazon Lex
+- Create MVP1 for automated cloud security solution using Cloud Custodian
+- Implement secure EC2 based Cloud Custodian deployment via Python SDK
 
 ### Theatre Manager
 
-*Holiday Auto Theatre, Hamilton, OH*: June 2016 – August 2020
+*Holiday Auto Theatre, Hamilton, OH*: June 2016 - August 2020
 
 - Supervise and manage a team of employees during operation hours
 - Provide excellent customer service during operation
@@ -24,7 +46,7 @@ layout: default
 
 ### Operations Field Worker
 
-*Christendom College, Front Royal, Virginia*: August 2018 – December 2019
+*Christendom College, Front Royal, Virginia*: August 2018 - December 2019
 
 - Assist manager in completing work orders
 - Ensure quality of work and craftsmanship
@@ -32,7 +54,7 @@ layout: default
 
 ### Baristo
 
-*Sacred Grounds Coffee Shop, Front Royal, VA*: January 2019 – December 2019
+*Sacred Grounds Coffee Shop, Front Royal, VA*: January 2019 - December 2019
 
 - Assisted the manager with daily tasks
 - Mentoring and training new staff members
@@ -40,7 +62,7 @@ layout: default
 
 ### Summer Camp Counselor
 
-*Camp Friedlander, Loveland, OH*: June 2014 – August 2014
+*Camp Friedlander, Loveland, OH*: June 2014 - August 2014
 
 - Teach valuable skills to young campers using a variety of teaching methods
 - Maintain camp cleanliness and ensure smooth operation
