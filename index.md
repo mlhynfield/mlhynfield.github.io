@@ -12,61 +12,65 @@ layout: default
 
 *Remote*: July 2021 - Present
 
-- Design and troubleshoot Kubernetes deployments for IP applications (EKS & AKS)
-- Automate processes for Managed Services using Python
-- Mentor System Admins in automation and best practices
-- Provide creative innovation and insight in internal DevOps meetings
-- Assist in outlining company best practices for various technologies and tools
-- Create and update thorough documentation for deployments and automations
-- Design high-level architectural diagrams for all projects
-- Moderate DevOps and Agile/Scrum Slack channels
+- Designed and troubleshot Kubernetes deployments via Elastic Kubernetes Service
+  and Azure Kubernetes Service for core business applications
+- Automated processes for managed services using Python including
+  OpsRamp and Jira REST API and data handling
+- Mentored System Admins in automation and best practices
+- Provided creative innovation and insight in internal DevOps meetings
+- Assisted in outlining company best practices for various technologies and tools
+- Created and updated thorough documentation for deployments and automations
+- Designed high-level architectural diagrams for all projects
+- Moderated DevOps and Agile/Scrum Slack channels
 
 ### DevOps Intern
 
 *Remote*: May 2021 - July 2021
 
-- Design and implement an IVR solution for VSO using Amazon Connect
-- Automate build process for Connect instances using AWS Python SDK
-- Implement Voicemail solution for Connect using other AWS services (e.g. Lambda)
-- Design a chatbot for Connect instance using Amazon Lex
-- Create MVP1 for automated cloud security solution using Cloud Custodian
-- Implement secure EC2 based Cloud Custodian deployment via Python SDK
+- Designed and implemented interactive voice response solution for VSO using
+  Amazon Connect, modernizing VSO's 1-800 number
+- Automated build process for Connect instances using AWS Python SDK,
+  opening new business opportunities for managed services
+- Implemented Voicemail solution for Connect using other AWS services (e.g. Lambda)
+- Designed a chatbot for Connect instance using Amazon Lex
+- Created MVP1 for automated cloud security solution using Cloud Custodian
+- Implemented secure EC2 based Cloud Custodian deployment via Python SDK
 
 ### Theatre Manager
 
 *Holiday Auto Theatre, Hamilton, OH*: June 2016 - August 2020
 
-- Supervise and manage a team of employees during operation hours
-- Provide excellent customer service during operation
-- Maintain clean workplace
-- Manage inventory
-- Ensure safety and security of guests and employees
-- Handle money deposits during closing
-- Open and close theatre before and after operation hours
+- Supervised and managed a team of employees during operation hours
+- Provided excellent customer service during operation
+- Maintained clean workplace
+- Managed inventory
+- Ensured safety and security of guests and employees
+- Handled money deposits during closing
+- Opened and closed theatre before and after operation hours
 
 ### Operations Field Worker
 
 *Christendom College, Front Royal, Virginia*: August 2018 - December 2019
 
-- Assist manager in completing work orders
-- Ensure quality of work and craftsmanship
-- Maintain inventory and cleanliness
+- Assisted manager in completing work orders
+- Ensured quality of work and craftsmanship
+- Maintained inventory and cleanliness
 
 ### Baristo
 
 *Sacred Grounds Coffee Shop, Front Royal, VA*: January 2019 - December 2019
 
 - Assisted the manager with daily tasks
-- Mentoring and training new staff members
+- Assisted in mentoring and training new staff members
 - Provided superior customer service; maintained cleanliness; manage inventory
 
 ### Summer Camp Counselor
 
 *Camp Friedlander, Loveland, OH*: June 2014 - August 2014
 
-- Teach valuable skills to young campers using a variety of teaching methods
-- Maintain camp cleanliness and ensure smooth operation
-- Serve as an excellent example of enthusiasm and cheerfulness to campers
+- Taught valuable skills to young campers using a variety of teaching methods
+- Maintained camp cleanliness and ensure smooth operation
+- Served as an excellent example of enthusiasm and cheerfulness to campers
 
 ## Education
 
@@ -82,4 +86,4 @@ layout: default
 
 - Minor in Classical Languages (e.g. Biblical Hebrew, Greek, & Latin)
 - Liberal arts curriculum including Theology, Philosophy, and Classics
-- Academic First Honors; GPA 3.8
+- Academic First Honors; GPA 3.8, Magna cum Laude
