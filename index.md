@@ -10,7 +10,7 @@ layout: default
 
 ### DevOps Engineer
 
-*Remote*: July 2021 - Present
+*[Virtual Service Operations](https://www.vso-inc.com), Remote*: July 2021 - Present
 
 - Designed and troubleshot Kubernetes deployments via Elastic Kubernetes Service
   and Azure Kubernetes Service for core business applications
@@ -25,7 +25,7 @@ layout: default
 
 ### DevOps Intern
 
-*Remote*: May 2021 - July 2021
+*[Virtual Service Operations](https://www.vso-inc.com), Remote*: May 2021 - July 2021
 
 - Designed and implemented interactive voice response solution for VSO using
   Amazon Connect, modernizing VSO's 1-800 number
@@ -38,7 +38,7 @@ layout: default
 
 ### Theatre Manager
 
-*Holiday Auto Theatre, Hamilton, OH*: June 2016 - August 2020
+*[Holiday Auto Theatre](https://holidayautotheatre.com), Hamilton, OH*: June 2016 - August 2020
 
 - Supervised and managed a team of employees during operation hours
 - Provided excellent customer service during operation
