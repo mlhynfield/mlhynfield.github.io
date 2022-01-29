@@ -1,0 +1,25 @@
+name: Markdown Lint
+on:
+  push:
+    branches: 
+      - develop
+      - master
+    paths:
+      - index.md
+  pull_request:
+    branches:
+      - develop
+      - master
+    paths:
+      - index.md
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Markdown Linting Action
+      uses: avto-dev/markdown-lint@v1.5.0
+      with:
+        args: './index.md'
