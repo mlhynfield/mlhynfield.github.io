@@ -96,9 +96,11 @@ June 2016 - August 2020
 ## Activities
 
 - Eagle Scout, Boy Scouts of America: 2013
-- Chapter Chief, Order of the Arrow (BSA): 2015 – 2016
 - Head Choreographer, Oxford Cooperative Theater Company: 2017
+- Chapter Chief, Order of the Arrow (BSA): 2015 – 2016
 - First Officer, Trail Life USA: 2016
+- Eta Sigma Phi (ΗΣΦ) Member: 2020 - present
+- Brotherhood Member, Order of the Arrow: 2015 - present
 - Actor, Oxford Cooperative Theater Company & Christendom Players:
   2010 – 2022
 - First Degree Knight, Knights of Columbus: 2018 – present
