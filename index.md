@@ -69,7 +69,8 @@ June 2016 - August 2020
 
 ### Summer Camp Counselor
 
-*Camp Friedlander, Loveland, OH*: June 2014 - August 2014
+*[Camp Friedlander](https://danbeard.org/attend-camp-friedlander-summer-camp/),*
+*Loveland, OH*: June 2014 - August 2014
 
 - Taught valuable skills to young campers using a variety of teaching methods
 - Maintained camp cleanliness and ensure smooth operation
@@ -88,7 +89,8 @@ June 2016 - August 2020
 *[Christendom College](https://www.christendom.edu), Front Royal, VA*: May 2021
 
 - Minor in Classical Languages (e.g. Biblical Hebrew, Greek, & Latin)
-- Liberal arts curriculum including Theology, Philosophy, and Classics
+- Classical liberal arts curriculum: History, English Literature, Political
+  Science, Theology, Philosophy, Classical Languages, Mathematics, and Science
 - Academic First Honors; GPA 3.8, Magna cum Laude
 
 ## Activities
