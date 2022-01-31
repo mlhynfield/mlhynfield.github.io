@@ -4,7 +4,7 @@ layout: default
 
 # Cloud DevOps Engineer
 
-| [Work Experience](#work-experience) | [Education](#education) |
+|[Work Experience](#work-experience)|[Education](#education)|[Activities](#activities)|
 
 ## Work Experience
 
@@ -85,8 +85,18 @@ June 2016 - August 2020
 
 ### B.A., Theology
 
-*Christendom College, Front Royal, VA*: May 2021
+*[Christendom College](https://www.christendom.edu), Front Royal, VA*: May 2021
 
 - Minor in Classical Languages (e.g. Biblical Hebrew, Greek, & Latin)
 - Liberal arts curriculum including Theology, Philosophy, and Classics
 - Academic First Honors; GPA 3.8, Magna cum Laude
+
+## Activities
+
+- Eagle Scout, Boy Scouts of America: 2013
+- Chapter Chief, Order of the Arrow (BSA): 2015 – 2016
+- Head Choreographer, Oxford Cooperative Theater Company: 2017
+- First Officer, Trail Life USA: 2016
+- Actor, Oxford Cooperative Theater Company & Christendom Players:
+  2010 – 2022
+- First Degree Knight, Knights of Columbus: 2018 – present
