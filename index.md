@@ -10,7 +10,7 @@ layout: default
 
 ### DevOps Engineer
 
-*[Virtual Service Operations](https://www.vso-inc.com), Remote*:
+*[Virtual Service Operations](https://www.vso-inc.com){:target="_blank"}, Remote*:
 July 2021 - Present
 
 - Designed and troubleshot Kubernetes deployments via Elastic Kubernetes Service
@@ -26,7 +26,7 @@ July 2021 - Present
 
 ### DevOps Intern
 
-*[Virtual Service Operations](https://www.vso-inc.com), Remote*:
+*[Virtual Service Operations](https://www.vso-inc.com){:target="_blank"}, Remote*:
 May 2021 - July 2021
 
 - Designed and implemented interactive voice response solution for VSO using
@@ -40,7 +40,7 @@ May 2021 - July 2021
 
 ### Theatre Manager
 
-*[Holiday Auto Theatre](https://holidayautotheatre.com), Hamilton, OH*:
+*[Holiday Auto Theatre](https://holidayautotheatre.com){:target="_blank"}, Hamilton, OH*:
 June 2016 - August 2020
 
 - Supervised and managed a team of employees during operation hours
@@ -69,7 +69,7 @@ June 2016 - August 2020
 
 ### Summer Camp Counselor
 
-*[Camp Friedlander](https://danbeard.org/attend-camp-friedlander-summer-camp/),*
+*[Camp Friedlander](https://danbeard.org/attend-camp-friedlander-summer-camp/){:target="_blank"},*
 *Loveland, OH*: June 2014 - August 2014
 
 - Taught valuable skills to young campers using a variety of teaching methods
@@ -80,14 +80,14 @@ June 2016 - August 2020
 
 ### Certifications
 
-- [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/d0e21379-2383-4509-831f-31fd925680f9/public_url)
-- [AWS Certified Solutions Architect - Associate (SAA)](https://www.credly.com/badges/715d7892-aa46-44e7-b70f-d07053abef1e/public_url)
-- [PCEP - Certified Entry-Level Python Programmer](https://www.credly.com/badges/13c66d3e-7c6f-44e2-8b4c-e8c01e97e2ca/public_url)
-- [Certified ScrumMaster (CSM)](https://bcert.me/sadwfbkok)
+- [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/d0e21379-2383-4509-831f-31fd925680f9/public_url){:target="_blank"}
+- [AWS Certified Solutions Architect - Associate (SAA)](https://www.credly.com/badges/715d7892-aa46-44e7-b70f-d07053abef1e/public_url){:target="_blank"}
+- [PCEP - Certified Entry-Level Python Programmer](https://www.credly.com/badges/13c66d3e-7c6f-44e2-8b4c-e8c01e97e2ca/public_url){:target="_blank"}
+- [Certified ScrumMaster (CSM)](https://bcert.me/sadwfbkok){:target="_blank"}
 
 ### B.A., Theology
 
-*[Christendom College](https://www.christendom.edu), Front Royal, VA*: May 2021
+*[Christendom College](https://www.christendom.edu){:target="_blank"}, Front Royal, VA*: May 2021
 
 - Minor in Classical Languages (e.g. Biblical Hebrew, Greek, & Latin)
 - Classical liberal arts curriculum: History, English Literature, Political
