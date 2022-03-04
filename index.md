@@ -10,8 +10,8 @@ layout: default
 
 ### DevOps Engineer
 
-*[Virtual Service Operations](https://www.vso-inc.com){:target="_blank"}, Remote*:
-July 2021 - Present
+*[Virtual Service Operations](https://www.vso-inc.com){:target="_blank"},*
+*Remote*: July 2021 - Present
 
 - Designed and troubleshot Kubernetes deployments via Elastic Kubernetes Service
   and Azure Kubernetes Service for core business applications
@@ -26,8 +26,8 @@ July 2021 - Present
 
 ### DevOps Intern
 
-*[Virtual Service Operations](https://www.vso-inc.com){:target="_blank"}, Remote*:
-May 2021 - July 2021
+*[Virtual Service Operations](https://www.vso-inc.com){:target="_blank"},*
+*Remote*: May 2021 - July 2021
 
 - Designed and implemented interactive voice response solution for VSO using
   Amazon Connect, modernizing VSO's 1-800 number
@@ -40,8 +40,8 @@ May 2021 - July 2021
 
 ### Theatre Manager
 
-*[Holiday Auto Theatre](https://holidayautotheatre.com){:target="_blank"}, Hamilton, OH*:
-June 2016 - August 2020
+*[Holiday Auto Theatre](https://holidayautotheatre.com){:target="_blank"},*
+*Hamilton, OH*: June 2016 - August 2020
 
 - Supervised and managed a team of employees during operation hours
 - Provided excellent customer service during operation
@@ -87,7 +87,8 @@ June 2016 - August 2020
 
 ### B.A., Theology
 
-*[Christendom College](https://www.christendom.edu){:target="_blank"}, Front Royal, VA*: May 2021
+*[Christendom College](https://www.christendom.edu){:target="_blank"},*
+*Front Royal, VA*: May 2021
 
 - Minor in Classical Languages (e.g. Biblical Hebrew, Greek, & Latin)
 - Classical liberal arts curriculum: History, English Literature, Political
