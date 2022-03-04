@@ -80,8 +80,9 @@ June 2016 - August 2020
 
 ### Certifications
 
-- [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/d0e21379-2383-4509-831f-31fd925680f9?source=linked_in_profile)
-- [PCEP - Certified Entry-Level Python Programmer](https://www.credly.com/badges/13c66d3e-7c6f-44e2-8b4c-e8c01e97e2ca?source=linked_in_profile)
+- [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/d0e21379-2383-4509-831f-31fd925680f9/public_url)
+- [AWS Certified Solutions Architect - Associate (SAA)](https://www.credly.com/badges/715d7892-aa46-44e7-b70f-d07053abef1e/public_url)
+- [PCEP - Certified Entry-Level Python Programmer](https://www.credly.com/badges/13c66d3e-7c6f-44e2-8b4c-e8c01e97e2ca/public_url)
 - [Certified ScrumMaster (CSM)](https://bcert.me/sadwfbkok)
 
 ### B.A., Theology
