@@ -13,9 +13,19 @@ layout: default
 *[Virtual Service Operations](https://www.vso-inc.com){:target="_blank"},*
 *Remote*: July 2021 - Present
 
-- Designed and troubleshot Kubernetes deployments via Elastic Kubernetes Service
-  and Azure Kubernetes Service for core business applications
-- Automated processes for managed services using Python including
+- Worked with a customer-facing team to deploy, monitor, and manage a 
+  large scale asset management application on RedHat OpenShift Kubernetes
+  Service in production and non-production environments through cross-region
+  management clusters onto regional workload clusters using tools such
+  as GitLab and GitHub, Tekton, Terraform, Nexus and Sonarqube,
+  Prometheus and Grafana, and Sysdig and LogDNA
+- Designed and implemented Kubernetes deployments via Elastic Kubernetes Service
+  and Azure Kubernetes Service for core business applications and created
+  GitHub Actions CI-CD pipelines for production and non-production environments
+- Exercised and taught Git security best practices including SSH
+  authentication, GPG commit signing, branch versioning, and main/master
+  branch protection
+- Automated processes for managed services using Python,
   OpsRamp and Jira REST API and data handling
 - Mentored System Admins in automation and best practices
 - Provided creative innovation and insight in internal DevOps meetings
@@ -33,6 +43,8 @@ layout: default
   Amazon Connect, modernizing VSO's 1-800 number
 - Automated build process for Connect instances using AWS Python SDK,
   opening new business opportunities for managed services
+- Adhered to GitHub security best practices such as SSH authentication
+    and GPG commit signing
 - Implemented Voicemail solution for Connect using other AWS services (e.g. Lambda)
 - Designed a chatbot for Connect instance using Amazon Lex
 - Created MVP1 for automated cloud security solution using Cloud Custodian
