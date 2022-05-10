@@ -13,7 +13,7 @@ layout: default
 *[Virtual Service Operations](https://www.vso-inc.com){:target="_blank"},*
 *Remote*: July 2021 - Present
 
-- Worked with a customer-facing team to deploy, monitor, and manage a 
+- Worked with a customer-facing team to deploy, monitor, and manage a
   large scale asset management application on RedHat OpenShift Kubernetes
   Service in production and non-production environments through cross-region
   management clusters onto regional workload clusters using tools such
