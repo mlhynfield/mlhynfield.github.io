@@ -19,9 +19,11 @@ layout: default
   management clusters onto regional workload clusters using tools such
   as GitLab and GitHub, Tekton, Terraform, Nexus and Sonarqube,
   Prometheus and Grafana, and Sysdig and LogDNA
-- Designed and implemented Kubernetes deployments via Elastic Kubernetes Service
-  and Azure Kubernetes Service for core business applications and created
-  GitHub Actions CI-CD pipelines for production and non-production environments
+- Designed and implemented Kubernetes deployments using Elastic Container Registry
+  with Elastic Kubernetes Service and Azure Container Registry with Azure
+  Kubernetes Service for core business applications, and created
+  GitHub Actions CI-CD pipelines to build, test, push to container registries,
+  and deploy with Kubernetes for production and non-production environments
 - Exercised and taught Git security best practices including SSH
   authentication, GPG commit signing, branch versioning, and main/master
   branch protection
