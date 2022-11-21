@@ -14,11 +14,15 @@ layout: default
 *Remote*: July 2021 - Present
 
 - Worked with a customer-facing team to deploy, monitor, and manage a
-  large scale asset management application on RedHat OpenShift Kubernetes
+  large scale digital asset management application on RedHat OpenShift Kubernetes
   Service in production and non-production environments through cross-region
   management clusters onto regional workload clusters using tools such
-  as GitLab and GitHub, Tekton, Terraform, Nexus and Sonarqube,
+  as GitLab and GitHub, ArgoCD, Tekton, Terraform, Nexus and Sonarqube,
   Prometheus and Grafana, and Sysdig and LogDNA
+- Installed K8s clusters on bare metal servers in isolated environments,
+  configured Istio service-mesh for application connectivity
+  protected by a VPN, and deployed applications on these clusters
+  for customer production use cases
 - Designed and implemented Kubernetes deployments using Elastic Container Registry
   with Elastic Kubernetes Service and Azure Container Registry with Azure
   Kubernetes Service for core business applications, and created
