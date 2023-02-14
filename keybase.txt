@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mlhynfield
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mlhynfield.github.io
+  * I am mlhynfield (https://keybase.io/mlhynfield) on keybase.
+  * I have a public key ASCDsIBn8olIP7S-NIQV7iUCUsdv3wJfrP1pqDNZ93Yt2wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012083b08067f289483fb4be348415ee250252c76fdf025facfd69a83359f7762ddb0a",
+      "host": "keybase.io",
+      "kid": "012083b08067f289483fb4be348415ee250252c76fdf025facfd69a83359f7762ddb0a",
+      "uid": "4c1ff70a783c0d80bd90305d599bab19",
+      "username": "mlhynfield"
+    },
+    "merkle_root": {
+      "ctime": 1676349980,
+      "hash": "fd105227ef14aa6c617d3da5e3d63422851272d1b9fc0fbf2fced358319b2b8fd47ecd3aeda03a2d9211f1afc763ed7b5a806930c45b441f203d809da746e421",
+      "hash_meta": "216b354f3a3baafa507e248b86f691214270c4cf8e971c8afdbebe63321ce410",
+      "seqno": 24043937
+    },
+    "service": {
+      "entropy": "6i75HHzKK2BruxsBVHDlAWzX",
+      "hostname": "mlhynfield.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1676350003,
+  "expire_in": 504576000,
+  "prev": "e4282c457118aa45219fdac8b8cbb5994a6a48399e940d2c663dccec64f5d55e",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgg7CAZ/KJSD+0vjSEFe4lAlLHb98CX6z9aagzWfd2LdsKp3BheWxvYWTESpcCD8Qg5CgsRXEYqkUhn9rIuMu1mUpqSDmelA0sZj3M7GT11V7EIGR9KHj83mV0yDXKtnfTcN55TDUgCHYI0WEHlhK6loNLAgHCo3NpZ8RAu7UG6xLsgH+gIi2dqzq3MJ/IFOncwH47gmcMhvbRGQJXsfDhFQ1c6HSrjh+nWsDhz5HLl23JQScW0zHTqRRUAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPtUMEo5vQaGsBIJbDMB3VwaxP3tSanqO3tJonq89D/qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mlhynfield
+
+==================================================================
