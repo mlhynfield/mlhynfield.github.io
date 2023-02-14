@@ -23,6 +23,9 @@ layout: default
   configured Istio service-mesh for application connectivity
   protected by a VPN, and deployed applications on these clusters
   for customer production use cases
+- Designed and implemented Terraform automation to build AWS EKS clusters and VPCs
+  via GitHub Actions workflows using secure GitHub OIDC provider
+  token authentication and S3/DynamoDB backend
 - Designed and implemented Kubernetes deployments using Elastic Container Registry
   with Elastic Kubernetes Service and Azure Container Registry with Azure
   Kubernetes Service for core business applications, and created
