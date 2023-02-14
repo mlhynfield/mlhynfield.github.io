@@ -4,7 +4,7 @@ layout: default
 
 # Cloud DevOps Engineer
 
-|[Work Experience](#work-experience)|[Education](#education)|[Activities](#activities)|
+|[Work Experience](#work-experience)|[Education](#education)|[Activities](#activities)|[Links](#links)
 
 ## Work Experience
 
@@ -23,6 +23,9 @@ layout: default
   configured Istio service-mesh for application connectivity
   protected by a VPN, and deployed applications on these clusters
   for customer production use cases
+- Designed and implemented Terraform automation to build AWS EKS clusters and VPCs
+  via GitHub Actions workflows using secure GitHub OIDC provider
+  token authentication and S3/DynamoDB backend
 - Designed and implemented Kubernetes deployments using Elastic Container Registry
   with Elastic Kubernetes Service and Azure Container Registry with Azure
   Kubernetes Service for core business applications, and created
@@ -124,3 +127,11 @@ layout: default
 - Actor, Oxford Cooperative Theater Company & Christendom Players:
   2010 – 2022
 - First Degree Knight, Knights of Columbus: 2018 – present
+
+## Links
+
+[GitHub](https://github.com/mlhynfield){:target="_blank"}
+
+[Keybase](https://keybase.io/mlhynfield){:target="_blank"}
+
+[Verify Site Authenticity](https://mlhynfield.github.io/keybase.txt){:target="_blank"}
