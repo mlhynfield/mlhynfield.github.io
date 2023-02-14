@@ -1,10 +1,11 @@
+
 # mlhynfield.github.io
 
 ## About
 
-This project serves as my playground for building a personal webpage as
-  lazily as possible while still looking nice and showing off my tech
-  skills.
+This project serves as my playground for building a
+  personal webpage as lazily as possible while still looking nice
+  and showing off my tech skills.
 
 ## Goals
 
