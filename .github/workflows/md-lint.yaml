@@ -4,21 +4,22 @@ on:
     branches: 
       - develop
     paths:
-      - index.md
+      - '**.md'
   pull_request:
     branches:
       - develop
       - master
     paths:
-      - index.md
+      - '**.md'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Markdown Linting Action
+    - uses: actions/checkout@v3
+
+    - name: Lint index.md
       uses: avto-dev/markdown-lint@v1.5.0
       with:
-        args: './index.md'
+        args: './'
