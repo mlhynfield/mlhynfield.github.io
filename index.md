@@ -4,7 +4,7 @@ layout: default
 
 # Cloud DevOps Engineer
 
-|[Work Experience](#work-experience)|[Education](#education)|[Activities](#activities)|
+|[Work Experience](#work-experience)|[Education](#education)|[Activities](#activities)|[Links](#links)
 
 ## Work Experience
 
@@ -124,3 +124,11 @@ layout: default
 - Actor, Oxford Cooperative Theater Company & Christendom Players:
   2010 – 2022
 - First Degree Knight, Knights of Columbus: 2018 – present
+
+## Links
+
+[GitHub](https://github.com/mlhynfield){:target="_blank"}
+
+[Keybase](https://keybase.io/mlhynfield){:target="_blank"}
+
+[Verify Site Authenticity](https://mlhynfield.github.io/keybase.txt){:target="_blank"}
