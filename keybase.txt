@@ -4,6 +4,62 @@ https://keybase.io/mlhynfield
 
 I hereby claim:
 
+  * I am an admin of https://marcus.hynfield.org
+  * I am mlhynfield (https://keybase.io/mlhynfield) on keybase.
+  * I have a public key ASCDsIBn8olIP7S-NIQV7iUCUsdv3wJfrP1pqDNZ93Yt2wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012083b08067f289483fb4be348415ee250252c76fdf025facfd69a83359f7762ddb0a",
+      "host": "keybase.io",
+      "kid": "012083b08067f289483fb4be348415ee250252c76fdf025facfd69a83359f7762ddb0a",
+      "uid": "4c1ff70a783c0d80bd90305d599bab19",
+      "username": "mlhynfield"
+    },
+    "merkle_root": {
+      "ctime": 1676743397,
+      "hash": "c140e8eefb3fefa915f1c952552bbd826544d6a290b8a09be8a4fc2f75f0ef5bdb65b6de59ba27e6d497355e61c7850e0333ede397b5c6902e7dec14be614d62",
+      "hash_meta": "f26dcc5f9ae13895ab9836b87632d0b5e2d0222a258cf9c984873008a1ba6833",
+      "seqno": 24071967
+    },
+    "service": {
+      "entropy": "yN+EnokwAI7fyannZ/W+BMj9",
+      "hostname": "marcus.hynfield.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1676743419,
+  "expire_in": 504576000,
+  "prev": "94cb7f743038645b6cd0f2adae639ba3ae72691bb7c6e3b2201d77b6aaead8ec",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgg7CAZ/KJSD+0vjSEFe4lAlLHb98CX6z9aagzWfd2LdsKp3BheWxvYWTESpcCFsQglMt/dDA4ZFts0PKtrmObo65yaRu3xuOyIB13tqrq2OzEIClc92e5jKPVDXin9FUdMn2DrzAxzOeNQi2wwxJUTTLuAgHCo3NpZ8RANTOLuBtDfC9wsoGWuG71utx+4VRZikFa9D7qbK27yCzZK6Tm37EnRsOZTEEYHJ9aop0NKApPBkFfP0pmnbcYCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDP5bUZtGHEkEd1j0SAV1zGk+befVsHxvWoCO7F9/f3Ho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mlhynfield
+
+==================================================================
+==================================================================
+https://keybase.io/mlhynfield
+--------------------------------------------------------------------
+
+I hereby claim:
+
   * I am an admin of https://mlhynfield.github.io
   * I am mlhynfield (https://keybase.io/mlhynfield) on keybase.
   * I have a public key ASCDsIBn8olIP7S-NIQV7iUCUsdv3wJfrP1pqDNZ93Yt2wo
