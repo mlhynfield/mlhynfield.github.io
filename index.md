@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Cloud DevOps Engineer
+# Cloud-Native DevOps Engineer
 
 |[Work Experience](#work-experience)|[Education](#education)|[Activities](#activities)|[Links](#links)
 
