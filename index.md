@@ -132,6 +132,8 @@ layout: default
 
 [GitHub](https://github.com/mlhynfield){:target="_blank"}
 
+[Twitter](https://twitter.com/mlhynfield){:target="_blank"}
+
 [Keybase](https://keybase.io/mlhynfield){:target="_blank"}
 
 [Verify Site Authenticity](https://mlhynfield.github.io/keybase.txt){:target="_blank"}
