@@ -4,7 +4,10 @@ layout: default
 
 # Cloud-Native DevOps Engineer
 
-|[Work Experience](#work-experience)|[Education](#education)|[Activities](#activities)|[Links](#links)
+- [Work Experience](#work-experience)
+- [Education](#education)
+- [Activities](#activities)
+- [Links](#links)
 
 ## Work Experience
 
@@ -101,9 +104,46 @@ layout: default
 
 ### Certifications
 
-- [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/d0e21379-2383-4509-831f-31fd925680f9/public_url){:target="_blank"}
-- [AWS Certified Solutions Architect - Associate (SAA)](https://www.credly.com/badges/715d7892-aa46-44e7-b70f-d07053abef1e/public_url){:target="_blank"}
-- [PCEP - Certified Entry-Level Python Programmer](https://www.credly.com/badges/13c66d3e-7c6f-44e2-8b4c-e8c01e97e2ca/public_url){:target="_blank"}
+<!-- PASTE CREDLY BADGES BELOW HERE -->
+
+<!-- CKAD -->
+<div
+data-iframe-width="150"
+data-iframe-height="270" data-share-badge-id="d0e21379-2383-4509-831f-31fd925680f9"
+data-share-badge-host="https://www.credly.com"
+></div>
+<script
+type="text/javascript"
+async
+src="//cdn.credly.com/assets/utilities/embed.js"
+></script>
+
+<!-- AWS SAA -->
+<div
+data-iframe-width="150"
+data-iframe-height="270" data-share-badge-id="715d7892-aa46-44e7-b70f-d07053abef1e"
+data-share-badge-host="https://www.credly.com"
+></div>
+<script
+type="text/javascript"
+async
+src="//cdn.credly.com/assets/utilities/embed.js"
+></script>
+
+<!-- PCEP -->
+<div
+data-iframe-width="150"
+data-iframe-height="270" data-share-badge-id="13c66d3e-7c6f-44e2-8b4c-e8c01e97e2ca"
+data-share-badge-host="https://www.credly.com">
+</div>
+<script
+type="text/javascript"
+async
+src="//cdn.credly.com/assets/utilities/embed.js"
+></script>
+
+<!-- PASTE CREDLY BADGES ABOVE HERE -->
+
 - [Certified ScrumMaster (CSM)](https://bcert.me/sadwfbkok){:target="_blank"}
 
 ### B.A., Theology
