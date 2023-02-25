@@ -106,6 +106,17 @@ layout: default
 
 <!-- PASTE CREDLY BADGES BELOW HERE -->
 
+<!-- CKA -->
+<div
+data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5b40048a-cce4-4835-8ee2-4bf20f248dc7"
+data-share-badge-host="https://www.credly.com"
+></div>
+<script
+type="text/javascript"
+async
+src="//cdn.credly.com/assets/utilities/embed.js"
+></script>
+
 <!-- CKAD -->
 <div
 data-iframe-width="150"
