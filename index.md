@@ -116,8 +116,6 @@ src="//cdn.credly.com/assets/utilities/embed.js"
 
 <!-- PASTE CREDLY BADGES ABOVE HERE -->
 
-- [Certified ScrumMaster (CSM)](https://bcert.me/sadwfbkok){:target="_blank"}
-
 ### B.A., Theology
 
 *[Christendom College](https://www.christendom.edu){:target="_blank"},*
