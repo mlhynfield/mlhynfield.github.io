@@ -21,14 +21,17 @@ flagship FogLifter® application deployments simultaneously with patching and up
 to ensure seamless delivery with zero downtime.
 - Streamlined FogLifter® development lifecycle with GitHub Actions CI/CD
 pipelines, including automated testing, building, deployment, and release for
-10+ containerized microservices.
-- Standardized and automated platform bootstrapping to rapidly create
+10+ containerized microservices, reducing code-to-production time by ~80% and
+facilitating weekly production releases.
+- Automated platform bootstrapping to rapidly create
 production-grade Kubernetes clusters via Ansible, and deployed/supported
 FogLifter® application deployments on these clusters by developing Helm charts
-and deploying them with Argo CD in production for enterprise customers.
+and deploying them with Argo CD, standardizing production FogLifter®
+installation for enterprise customers.
 - Implemented Terraform IaC automation to provision and manage Financial
 Services compliant IBM Cloud ROKS environments with cross-region management
-clusters and regional workload clusters.
+clusters and regional workload clusters, creating a consistent and repeatable
+onboarding process for new business-critical customers.
 - Deployed and managed a digital asset management application in several
 production and non-production IBM Cloud ROKS environments using Argo CD GitOps
 and Tekton pipelines, along with monitoring and logging stacks.
