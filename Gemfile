@@ -7,3 +7,5 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.4"
 
 gem "jekyll-theme-slate", "~> 0.2.0"
+
+gem "logger"

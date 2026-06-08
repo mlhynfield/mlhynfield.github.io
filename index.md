@@ -69,6 +69,19 @@ opening new business opportunities for managed services
 
 <!-- PASTE CREDLY BADGES BELOW HERE -->
 
+<!-- GCP PCDOE -->
+<div
+  data-iframe-width="150"
+  data-iframe-height="270"
+  data-share-badge-id="779c7b5a-98c1-457c-8253-a80ef192e6dd"
+  data-share-badge-host="https://www.credly.com"
+></div>
+<script
+  type="text/javascript"
+  async
+  src="//cdn.credly.com/assets/utilities/embed.js"
+></script>
+
 <!-- AWS DOP -->
 <div
   data-iframe-width="150"
